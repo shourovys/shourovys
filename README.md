@@ -43,7 +43,7 @@
 <br />
 <img width="550px" alt="Shourov Saha Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shorovys&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shourovys&card_width=550)](https://github.com/shourovys/shourovys)
 
 
 [programming]: https://www.facebook.com/shourov.saha.98/
