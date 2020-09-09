@@ -46,4 +46,11 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
 
 
+[programming]: https://www.facebook.com/shourov.saha.98/
+[website]: https://www.facebook.com/shourov.saha.98/
+[twitter]: https://www.facebook.com/shourov.saha.98/
+[linkedin]: https://www.facebook.com/shourov.saha.98/
 [webdevplaylist]: https://www.facebook.com/shourov.saha.98/
+[jsplaylist]: https://www.facebook.com/shourov.saha.98/
+[cssplaylist]: https://www.facebook.com/shourov.saha.98/
+[reactplaylist]: https://www.facebook.com/shourov.saha.98/
