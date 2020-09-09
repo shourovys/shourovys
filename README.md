@@ -1,14 +1,13 @@
 ### Hi there, I'm  [Shourov Saha][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-<!-- - 🔭 I’m currently working [Programming Hero][programming]! -->
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn React, React Native, Node
-- ⚡ Fun fact: I love to Explore the world 
+
 
 ### Connect with me:
 
-<!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/solaiman-shadin/)  -->
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shourov.saha.98) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@shourovys) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13739029/shourov-ys)
@@ -37,9 +36,11 @@
 <br />
 <br />
 <br />
-<br />
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shourovys)](https://github.com/shourovys/shourovys)
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shourovys&card_width=550)](https://github.com/shourovys/shourovys)
 
 
 [programming]: https://www.facebook.com/shourov.saha.98/
