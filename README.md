@@ -46,11 +46,4 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
 
 
-<!-- [programming]: https://www.programming-hero.com/ -->
-<!-- [website]: https://shadin.netlify.app/ -->
-<!-- [twitter]: https://shadin.netlify.app/ -->
-<!-- [linkedin]: https://shadin.netlify.app/ -->
-<!-- [webdevplaylist]: https://shadin.netlify.app/ -->
-<!-- [jsplaylist]: https://shadin.netlify.app/ -->
-<!-- [cssplaylist]: https://shadin.netlify.app/ -->
-<!-- [reactplaylist]: https://shadin.netlify.app/ -->
+[webdevplaylist]: https://www.facebook.com/shourov.saha.98/
