@@ -63,14 +63,30 @@ Full-featured property listing platform with advanced search
 - 📧 Email: shourovys@gmail.com
 - 📍 Location: Dhaka, Bangladesh
 
-### 📊 GitHub Stats
+---
 
-![Shourov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shourovys&show_icons=true&theme=radical)
+### 📊 GitHub Stats & Contributions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shourovys&layout=compact&theme=radical)
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shourovys&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shourovys&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
 
 ---
 
 💡 **Open to:** Collaborations, Freelance Projects, Full-time Opportunities
 
 ⭐️ From [shourovys](https://github.com/shourovys)
+
+
