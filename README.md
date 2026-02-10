@@ -7,14 +7,13 @@ I'm a passionate Frontend Developer with **4+ years of experience** building sca
 ### 🚀 What I'm Currently Working On
 - Leading frontend development for **IraqLoto** - Iraq's official national lottery platform
 - Building fintech dashboards with multi-role organization management
-- Integrating multiple payment gateways (FastPay, Zain Cash, QI Card, AsiaPay)
-- Developing real-time notification systems and mini-app architectures
 
 ### 💼 Professional Experience
 - **Frontend Developer** @ Newroz Technologies Limited (Nov 2024 - Present)
 - **Frontend Engineer** @ Sicunet Inc (Feb 2024 - Sep 2024)
 - **Frontend Developer** @ Texon Limited (Jan 2022 - Jan 2024)
-- **MERN Stack Developer** @ In a Quick Menu (Jun 2021 - Dec 2021)
+- **MERN Stack Developer** @ Quick Menu (Jun 2021 - Dec 2021)
+- **Frontend Developer as an intern** @ Sootram (Apr 2021 - May 2021)
 
 ### 🛠️ Technologies & Tools
 
@@ -39,8 +38,8 @@ I'm a passionate Frontend Developer with **4+ years of experience** building sca
 
 ### 🎯 Key Achievements
 - 🎰 Built Iraq's **national lottery platform** serving thousands of users
-- ⚡ Improved Access Control System performance by **60%+**
-- 📊 Delivered **230+ production pages** across enterprise applications
+- ⚡ Improved Security Access Control System performance by **60%+**
+- 📊 Delivered **230+ production pages** in a single enterprise applications
 - 🏪 Developed multi-vendor **e-commerce platform** with admin panel
 - 🎨 Specialized in **pixel-perfect responsive design** across all projects
 
