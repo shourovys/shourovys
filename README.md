@@ -1,51 +1,77 @@
-### Hi there, I'm  [Shourov Saha][website] 👋
+# Hi, I'm Shourov Saha 👋
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## Frontend Developer | Team Lead | React & TypeScript Specialist
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn React, React Native, Node
+I'm a passionate Frontend Developer with **4+ years of experience** building scalable, high-performance web applications. I specialize in creating pixel-perfect, responsive user experiences that solve real business problems.
 
+### 🚀 What I'm Currently Working On
+- Leading frontend development for **IraqLoto** - Iraq's official national lottery platform
+- Building fintech dashboards with multi-role organization management
+- Integrating multiple payment gateways (FastPay, Zain Cash, QI Card, AsiaPay)
+- Developing real-time notification systems and mini-app architectures
 
-### Connect with me:
+### 💼 Professional Experience
+- **Frontend Developer** @ Newroz Technologies Limited (Nov 2024 - Present)
+- **Frontend Engineer** @ Sicunet Inc (Feb 2024 - Sep 2024)
+- **Frontend Developer** @ Texon Limited (Jan 2022 - Jan 2024)
+- **MERN Stack Developer** @ In a Quick Menu (Jun 2021 - Dec 2021)
 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shourov.saha.98) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@shourovys) 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13739029/shourov-ys)
+### 🛠️ Technologies & Tools
 
-<br />
+#### Frontend Development
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Languages and Tools:
+#### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="30px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/php.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-<br />
-<br />
-<br />
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+### 🎯 Key Achievements
+- 🎰 Built Iraq's **national lottery platform** serving thousands of users
+- ⚡ Improved Access Control System performance by **60%+**
+- 📊 Delivered **230+ production pages** across enterprise applications
+- 🏪 Developed multi-vendor **e-commerce platform** with admin panel
+- 🎨 Specialized in **pixel-perfect responsive design** across all projects
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shourovys&card_width=550)](https://github.com/shourovys/shourovys)
+### 📈 Featured Projects
 
+#### 🎰 IraqLoto - National Lottery Platform
+Official lottery platform for Iraq with multiple payment gateway integrations
+- **Tech:** TypeScript, React.js, TailwindCSS, Firebase, OneSignal
+- **Features:** Multi-payment integration, SSO authentication, real-time notifications
+- **Link:** [iraqloto.iq](https://iraqloto.iq/)
 
-[programming]: https://www.facebook.com/shourov.saha.98/
-[website]: https://www.facebook.com/shourov.saha.98/
-[twitter]: https://www.facebook.com/shourov.saha.98/
-[linkedin]: https://www.facebook.com/shourov.saha.98/
-[webdevplaylist]: https://www.facebook.com/shourov.saha.98/
-[jsplaylist]: https://www.facebook.com/shourov.saha.98/
-[cssplaylist]: https://www.facebook.com/shourov.saha.98/
-[reactplaylist]: https://www.facebook.com/shourov.saha.98/
+#### 🏠 BD-Property - Real Estate Platform
+Full-featured property listing platform with advanced search
+- **Tech:** Next.js, TypeScript, Redux Toolkit, SWR
+- **Features:** Dynamic filtering, loan calculator, responsive design
+- **Links:** [Live Site](https://bd-property-shourov.vercel.app/) | [Repository](https://github.com/shourovys/BD-Property-Frontend)
+
+### 📫 Let's Connect
+- 💼 LinkedIn: [linkedin.com/in/shourovys](https://www.linkedin.com/in/shourovys)
+- 🌐 Portfolio: [shourovys.netlify.app](https://shourovys.netlify.app/)
+- 📧 Email: shourovys@gmail.com
+- 📍 Location: Dhaka, Bangladesh
+
+### 📊 GitHub Stats
+
+![Shourov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shourovys&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shourovys&layout=compact&theme=radical)
+
+---
+
+💡 **Open to:** Collaborations, Freelance Projects, Full-time Opportunities
+
+⭐️ From [shourovys](https://github.com/shourovys)
